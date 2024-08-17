@@ -13,5 +13,3 @@
   publish = "build"
   functions = "functions"
 
-[[plugins]]
-  package = "@netlify/plugin-npm-install"
